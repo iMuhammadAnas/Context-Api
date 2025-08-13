@@ -4,7 +4,7 @@ import { SiteContext } from "./SiteContext";
 const initialState = [
     {
       id: 1,
-      title: 'Example Site',
+      title: 'Example Sites',
       da: 55,
       url: 'https://example.com',
       contact: 'a@a.com',
